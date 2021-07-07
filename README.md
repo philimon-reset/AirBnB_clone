@@ -41,7 +41,8 @@ It includes various models and a file storage system to save instances of the mo
 - Python 3
 
 ## Live Demo
-TODO
+
+![](https://github.com/philimon-reset/AirBnB_clone/blob/main/project.png)
 
 ## Getting Started
 
