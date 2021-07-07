@@ -1,5 +1,37 @@
 # AirBnB_clone
 
+<!-- TABLE OF CONTENTS -->
+<details open="open">
+  <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#Built With">Built With</a></li>
+      </ul>
+    </li>
+    <li><a href="#usage">Usage</a></li>
+    <li><a href="#Live Demo">Live Demo</a></li>
+    <li>
+      <a href="#Getting Started">Getting Started</a>
+      <ul>
+        <li><a href="#Prerequisites">Prerequisites</a></li>
+      </ul>
+      <ul>
+        <li><a href="#Setup">Setup</a></li>
+      </ul>
+      <ul>
+        <li><a href="#Usage">Usage</a></li>
+      </ul>
+    </li>
+    <li><a href="#List of models">List of models</a></li>
+    <li><a href="#Run tests">Run tests</a></li>
+    <li><a href="#Authors">Authors</a></li>
+  </ol>
+</details>
+
+<!-- ABOUT THE PROJECT -->
+## About The Project
 > This project is the first step towards cloning the AirBnB web app.
 
 It includes various models and a file storage system to save instances of the models.<br />Along side this it has a custom built command line utility for quick and easy manipulation of the instances.<br />The features of the command line utility includes creating, updating, deleting, and displaying instances of any model.
