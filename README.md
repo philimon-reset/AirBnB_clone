@@ -31,7 +31,8 @@ Available commands in the console:
 * `destroy <model> <id>` to destroy a specific instance based on it's model and id
 * `all [model]` displays every available instance of a model, or all models
 * `update <model> <id> <attribute name> "<attribute value>"` to update a specific instance
-Other method to invoke the above commands and more:
+
+Other methods to invoke the above commands and more:
 * `<model>.all()` same as `all <model>`
 * `<model>.count()` displays the number of instances of a model
 * `<model>.show(<id>)` same as `show <model> <id>`
